@@ -1,5 +1,5 @@
 
-# Not my own site but someone else's I am using for funzies!
+# Testing this site for git purposes only and to have fun!
 
 
 This is the repo for my personal website 👋
