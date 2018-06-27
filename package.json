@@ -24,7 +24,9 @@
   },
   "dependencies": {
     "autoprefixer": "^8.6.0",
+    "npm": "^6.1.0",
     "parcel": "^1.8.1",
-    "postcss-nested": "^3.0.0"
+    "postcss-nested": "^3.0.0",
+    "start": "^5.1.0"
   }
 }

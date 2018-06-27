@@ -1,4 +1,4 @@
-# Rafa's site
+# Brennan's site
 
 This is the repo for my personal website 👋
 
