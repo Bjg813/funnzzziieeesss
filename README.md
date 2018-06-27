@@ -1,5 +1,5 @@
 
-# Testing this site for git purposes only and to have fun!
+# Testing this site for git purposes only! While having some fun of course!
 
 
 This is the repo for my personal website 👋
