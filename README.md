@@ -1,4 +1,4 @@
-# Brennan's site
+# nope not all my site
 
 This is the repo for my personal website 👋
 
